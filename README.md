@@ -15,4 +15,5 @@ A decoder setup like this seems to be the most basic form of a selector. Basical
 
 ## Just for fun
 If you aren't a fan of xkcd, you should be.
+
 ![alt text](http://imgs.xkcd.com/comics/git_commit.png "Taken from xkcd.com/1296")
